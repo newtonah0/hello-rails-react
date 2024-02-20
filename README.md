@@ -1,1 +1,3 @@
-# hello-rails-react
+# Hello Rails React
+
+
