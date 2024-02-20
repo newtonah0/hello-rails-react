@@ -1,8 +1,8 @@
 greetings = [
-  'Salam',
+  'Salam-alaykum',
   'Hello',
   'Hi',
-  'Hola',
+  'How-are-you?',
   'Namaste'
 ]
 
