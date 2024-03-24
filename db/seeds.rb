@@ -11,4 +11,3 @@ greetings.each do |greeting|
 end
 
 puts 'Seeded database with greetings.'
-
